@@ -4,14 +4,14 @@ var max=9;
 var min=0;
 var letraIntro="";
 var numIntro=0;
-var cntFallos=0;
+var cntFallos=5;
 var i=0;
 var letraEncontrada;
 numAleatorio=Math.random() * (max-min) + min;
 numAleatorio=Math.round(numAleatorio);
 
 var generada = palabras[numAleatorio];
-alert (generada);
+alert (Estirada);
 
 // Generación de palabra con tantos ceros como la longitud de la palabra generada
 var ahorcado="";
