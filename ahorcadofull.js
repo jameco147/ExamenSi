@@ -3,7 +3,7 @@ var numAleatorio =hola que tal;
 var max=9;
 var min=0;
 var letraIntro="";
-var numIntro=0;
+var numIntro=20;
 var cntFallos=0;
 var i=0;
 var letraEncontrada;
