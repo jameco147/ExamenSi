@@ -1,5 +1,5 @@
 var palabras = ["ornitorrinco", "piscina", "verano", "espacio", "universo"];
-var numAleatorio = 0;
+var numAleatorio =0;
 var max=4;
 var min=0;
 var letraIntro="";
