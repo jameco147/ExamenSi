@@ -1,6 +1,6 @@
 var palabras = ["ornitorrinco", "piscina", "verano", "espacio", "universo" "barro"];
 var numAleatorio =hola que tal;
-var max=6;
+var max=9;
 var min=0;
 var letraIntro="";
 var numIntro=0;
